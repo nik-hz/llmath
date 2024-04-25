@@ -1,0 +1,2 @@
+('983 - 612', 'Subtract 612 from 983 step by step:\nSubtracting the ones: 3 - 2 - previous borrow 0 = 1 (place the 1 at the ones place)\nSubtracting the tens: 8 - 1 - previous borrow 0 = 7 (place the 7 at the tens place)\nSubtracting the hundreds: 9 - 6 - previous borrow 0 = 3 (place the 3 at the hundreds place)\nThe final answer is 371', '371')
+('983 / 612', 'Divide 983 by 612 step by step:\nPerforming integer division of 983 by 612.\n983 ÷ 612 = 1 with remainder 371\nThe quotient is 1 and the remainder is 371', '1 R371')
