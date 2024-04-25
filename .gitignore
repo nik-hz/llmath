@@ -1,4 +1,3 @@
 .vscode*
 math_reasoning/
-mathnet/mathnet_dset.py
 models/*/
