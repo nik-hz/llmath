@@ -1,8 +1,8 @@
-# llamath
+# llamath: Improving math reasoning in LLMs through step by step data and task specific training objectives.
+Class project final report
 
 ## Dataset
-I wil not be sharing the exact dataset generating code to encourage use of a standardized dataset for research and community benchmarking. I have released three different versions of mathnet on XXXXX for use.
-Explanation from paper. 
+I have released three different versions of mathnet.
 
 ## Training metrics
 
